@@ -1,0 +1,23 @@
+.pdf-reader-container {
+  padding: 20px;
+  max-width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+.back-button {
+  margin-bottom: 30px;
+  padding: 15px;
+  background-color: #1036e0;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.back-button:hover {
+  background-color: #898555;
+}
+.pdf-viewer {
+  width: 100%;
+  height: 750px;
+  border: 10px solid #ccc;
+}
